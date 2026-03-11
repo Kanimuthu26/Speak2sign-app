@@ -30,6 +30,12 @@ Speak2sign-app
 ├── documentation.pdf
 └── README.md
 
+## Demo Video
+
+Watch the project demonstration here:
+
+[Speak2Sign Demo Video](https://drive.google.com/file/d/115k03LEOJoBHl4KwIWDVTrmEQcTSWfVs/view?usp=drive_link)
+
 ## Future Improvements
 
 - Add more sign language vocabulary
